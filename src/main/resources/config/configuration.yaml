@@ -1,0 +1,6 @@
+mysql:
+  host: "mythicaldb.workshops.mulesoft.com"
+  port: "6033"
+  user: "product"
+  password: "Mule1379"
+  database: "products_test"

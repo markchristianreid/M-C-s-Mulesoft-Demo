@@ -1,0 +1,72 @@
+{
+  "basicConstraints": 28,
+  "criticalExtensionOIDs": [
+    "Fusce",
+    "adipiscing",
+    "adipiscing"
+  ],
+  "extendedKeyUsage": [
+    "dolor",
+    "erat",
+    "pretium"
+  ],
+  "extensions": [
+    {
+      "criticality": false,
+      "oid": "molestie"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Cristobal",
+      "type": 80
+    }
+  ],
+  "issuerDN": {
+    "commonName": "dolor",
+    "name": "Alex"
+  },
+  "issuerUniqueID": [
+    false,
+    false
+  ],
+  "issuerX500Principal": {
+    "name": "Carlton"
+  },
+  "keyUsage": [
+    true,
+    true
+  ],
+  "name": "Abbie",
+  "nonCriticalExtensionOIDs": [
+    "molestie",
+    "sodales"
+  ],
+  "publicKey": {
+    "algorithm": "sit",
+    "modulus": 32,
+    "params": 98,
+    "publicKey": "Nam"
+  },
+  "serialNumber": 67,
+  "serialNumberObject": {
+    "serialNumber": 97
+  },
+  "sigAlgName": "a",
+  "sigAlgOID": "Nunc",
+  "subjectAlternativeNames": [
+    {
+      "name": "Alec",
+      "type": 84
+    }
+  ],
+  "subjectDN": {
+    "commonName": "nunc",
+    "name": "Collin"
+  },
+  "subjectX500Principal": {
+    "name": "Carroll"
+  },
+  "type": "ipsum",
+  "version": 60
+}

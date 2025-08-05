@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<types:mule xmlns:types="http://www.mulesoft.org/schema/mule/types">
+  <types:catalog>
+    <types:type name="product" format="json">
+      <types:shape format="weave" example="examples/product.json"><![CDATA[%dw 2.0
+
+type product = Array<{|  id: Number {"typeId": "int"},   categories: Array<String>, 
+  colors: Array<String>, 
+  createdDate: String, 
+  modifiedDate: String, 
+  safetyStockLevel: Number {"typeId": "int"}, 
+  stock: Number {"typeId": "int"}, 
+  daysToManufacture: Number {"typeId": "int"}, 
+  name: String, 
+  description: String, 
+  images: Array<String>, 
+  listPrice: Number {"typeId": "int"}, 
+  manufactured: Boolean, 
+  productNumber: String, 
+  size: String, 
+  sizeUnitMeasureCode: Null, 
+  standardCost: Number {"typeId": "int"}, 
+  weightUnitMeasureCode: Null, 
+  weight: Null
+|}> {"example": "[{\\\"id\\\":1991,\\\"categories\\\":[\\\"\\\"],\\\"colors\\\":[\\\"\\\"],\\\"createdDate\\\":\\\"2025-01-01\\\",\\\"modifiedDate\\\":\\\"2025-01-01\\\",\\\"safetyStockLevel\\\":40,\\\"stock\\\":150,\\\"daysToManufacture\\\":2,\\\"name\\\":\\\"Windows XP software\\\",\\\"description\\\":\\\"Software for computers\\\",\\\"images\\\":[\\\"\\\"],\\\"listPrice\\\":500,\\\"manufactured\\\":false,\\\"productNumber\\\":\\\"1110Z\\\",\\\"size\\\":\\\"112\\\",\\\"sizeUnitMeasureCode\\\":null,\\\"standardCost\\\":60,\\\"weightUnitMeasureCode\\\":null,\\\"weight\\\":null}]"}
+
+]]></types:shape>
+    </types:type>
+  </types:catalog>
+  <types:enrichment select="#b7f9cdec-2778-445e-8637-57eb3aac0b2c">
+    <types:processor-declaration>
+      <types:input-event>
+        <types:message>
+          <types:payload type="product"/>
+        </types:message>
+      </types:input-event>
+    </types:processor-declaration>
+  </types:enrichment>
+</types:mule>

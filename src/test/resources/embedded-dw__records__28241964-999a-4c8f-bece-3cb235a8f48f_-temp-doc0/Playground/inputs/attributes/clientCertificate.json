@@ -1,0 +1,72 @@
+{
+  "basicConstraints": 67,
+  "criticalExtensionOIDs": [
+    "dui",
+    "amet",
+    "felis"
+  ],
+  "extendedKeyUsage": [
+    "Pellentesque",
+    "Aliquam"
+  ],
+  "extensions": [
+    {
+      "criticality": false,
+      "oid": "lorem"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Chi",
+      "type": 68
+    }
+  ],
+  "issuerDN": {
+    "commonName": "a",
+    "name": "Adolfo"
+  },
+  "issuerUniqueID": [
+    true,
+    true
+  ],
+  "issuerX500Principal": {
+    "name": "Alisia"
+  },
+  "keyUsage": [
+    false,
+    true,
+    true
+  ],
+  "name": "Alexis",
+  "nonCriticalExtensionOIDs": [
+    "Lorem",
+    "dolor"
+  ],
+  "publicKey": {
+    "algorithm": "consectetur",
+    "modulus": 62,
+    "params": 74,
+    "publicKey": "erat"
+  },
+  "serialNumber": 29,
+  "serialNumberObject": {
+    "serialNumber": 38
+  },
+  "sigAlgName": "Nam",
+  "sigAlgOID": "tincidunt",
+  "subjectAlternativeNames": [
+    {
+      "name": "Abram",
+      "type": 74
+    }
+  ],
+  "subjectDN": {
+    "commonName": "libero",
+    "name": "Alaina"
+  },
+  "subjectX500Principal": {
+    "name": "Burt"
+  },
+  "type": "dictum",
+  "version": 28
+}

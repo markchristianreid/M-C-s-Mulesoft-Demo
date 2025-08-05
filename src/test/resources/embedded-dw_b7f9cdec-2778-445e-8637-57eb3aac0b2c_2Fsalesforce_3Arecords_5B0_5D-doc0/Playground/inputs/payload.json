@@ -1,0 +1,30 @@
+[
+  {
+    "id": 33,
+    "categories": [
+      "pulvinar",
+      "ipsum"
+    ],
+    "colors": [
+      "vitae",
+      "pretium",
+      "viverra"
+    ],
+    "createdDate": "adipiscing",
+    "modifiedDate": "arcu",
+    "safetyStockLevel": 21,
+    "stock": 72,
+    "daysToManufacture": 32,
+    "name": "Amiee",
+    "description": "Lorem ipsum dolor sit amet",
+    "images": [
+      "aliquam",
+      "lorem"
+    ],
+    "listPrice": 1,
+    "manufactured": true,
+    "productNumber": "dolor",
+    "size": "erat",
+    "standardCost": 79
+  }
+]

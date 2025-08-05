@@ -1,0 +1,21 @@
+[
+  {
+    "id": 56,
+    "name": "Dannie",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Fusce at arcu lectus. Nam lorem nibh pretium a nisi a viverra consectetur dui. In ac tincidunt libero. Pellentesque pulvinar justo vitae molestie tempor nunc risus faucibus ipsum semper tempor erat erat sed mi. Aliquam convallis nunc felis molestie sodales dolor sodales ut. Nunc aliquam eros eget",
+    "product_number": "eros",
+    "manufactured": true,
+    "colors": "Aliquam",
+    "categories": "amet",
+    "stock": 10,
+    "safety_stock_level": 68,
+    "standard_cost": 19,
+    "list_price": 0.55,
+    "size": "semper",
+    "size_unit_measure_code": "libero",
+    "weight": 80,
+    "weight_unit_measure_code": "tincidunt",
+    "days_to_manufacture": 80,
+    "images": "nibh"
+  }
+]
