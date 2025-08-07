@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>b02e4c92-2d52-4ea7-b65c-1efee64a1675</groupId>
-    <artifactId>august_demo</artifactId>
-    <version>1.0.0</version>
+    <artifactId>datastoreToEntSystem</artifactId>
+    <version>0.0.1</version>
     <packaging>mule-application</packaging>
-    <name>august_demo</name>
+    <name>datastoreToEntSystem</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
