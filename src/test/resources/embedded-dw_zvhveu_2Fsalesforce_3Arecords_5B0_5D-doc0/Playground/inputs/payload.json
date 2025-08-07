@@ -1,0 +1,43 @@
+[
+  {
+      "id": 1991, 
+      "categories": [], 
+      "colors": [], 
+      "createdDate": "2025-01-01", 
+      "modifiedDate": "2025-01-01", 
+      "safetyStockLevel": 40, 
+      "stock": 150, 
+      "daysToManufacture": 2, 
+      "name": "Windows XP software", 
+      "description": "Software for computers", 
+      "images": [], 
+      "listPrice": 500, 
+      "manufactured": false, 
+      "productNumber": "1110Z", 
+      "size": 112, "sizeUnitMeasureCode": "", 
+      "standardCost": 60, 
+      "weightUnitMeasureCode": "", 
+      "weight": ""
+    },
+    {
+    "id": 1991,
+    "categories": [],
+    "colors": [],
+    "createdDate": "2025-01-01",
+    "modifiedDate": "2025-01-01",
+    "safetyStockLevel": 40,
+    "stock": 150,
+    "daysToManufacture": 2,
+    "name": "Windows XP software",
+    "description": "Software for computers",
+    "images": [],
+    "listPrice": 500,
+    "manufactured": false,
+    "productNumber": "1110Z",
+    "size": 112,
+    "sizeUnitMeasureCode": "",
+    "standardCost": 60,
+    "weightUnitMeasureCode": "",
+    "weight": ""
+  }
+]

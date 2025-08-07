@@ -1,0 +1,73 @@
+{
+  "basicConstraints": 55,
+  "criticalExtensionOIDs": [
+    "eros",
+    "sodales",
+    "dictum"
+  ],
+  "extendedKeyUsage": [
+    "ipsum",
+    "consectetur"
+  ],
+  "extensions": [
+    {
+      "criticality": false,
+      "oid": "vitae"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Carlos",
+      "type": 23
+    }
+  ],
+  "issuerDN": {
+    "commonName": "arcu",
+    "name": "Alexia"
+  },
+  "issuerUniqueID": [
+    false,
+    true,
+    false
+  ],
+  "issuerX500Principal": {
+    "name": "Ai"
+  },
+  "keyUsage": [
+    false,
+    false
+  ],
+  "name": "Alissa",
+  "nonCriticalExtensionOIDs": [
+    "at",
+    "at",
+    "tempor"
+  ],
+  "publicKey": {
+    "algorithm": "In",
+    "modulus": 21,
+    "params": 53,
+    "publicKey": "nunc"
+  },
+  "serialNumber": 43,
+  "serialNumberObject": {
+    "serialNumber": 81
+  },
+  "sigAlgName": "consectetur",
+  "sigAlgOID": "dolor",
+  "subjectAlternativeNames": [
+    {
+      "name": "Chang",
+      "type": 86
+    }
+  ],
+  "subjectDN": {
+    "commonName": "venenatis",
+    "name": "Buddy"
+  },
+  "subjectX500Principal": {
+    "name": "Adina"
+  },
+  "type": "erat",
+  "version": 79
+}

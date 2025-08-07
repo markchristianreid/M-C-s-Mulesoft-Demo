@@ -1,73 +1,71 @@
 {
-  "basicConstraints": 91,
+  "basicConstraints": 40,
   "criticalExtensionOIDs": [
-    "erat",
-    "lorem",
-    "eget"
+    "justo",
+    "adipiscing"
   ],
   "extendedKeyUsage": [
-    "a",
-    "mi"
+    "Aliquam",
+    "erat"
   ],
   "extensions": [
     {
       "criticality": false,
-      "oid": "sit"
+      "oid": "justo"
     }
   ],
   "issuerAlternativeNames": [
     {
-      "name": "Craig",
-      "type": 49
+      "name": "Amina",
+      "type": 42
     }
   ],
   "issuerDN": {
-    "commonName": "Nunc",
-    "name": "Damon"
+    "commonName": "adipiscing",
+    "name": "Allen"
   },
   "issuerUniqueID": [
     true,
-    true,
-    true
-  ],
-  "issuerX500Principal": {
-    "name": "Adelle"
-  },
-  "keyUsage": [
-    false,
     false,
     false
   ],
-  "name": "Agatha",
+  "issuerX500Principal": {
+    "name": "Dale"
+  },
+  "keyUsage": [
+    true,
+    false
+  ],
+  "name": "Adalberto",
   "nonCriticalExtensionOIDs": [
-    "lectus",
-    "pulvinar"
+    "adipiscing",
+    "venenatis"
   ],
   "publicKey": {
-    "algorithm": "eget",
-    "modulus": 85,
-    "params": 45,
-    "publicKey": "In"
+    "algorithm": "pretium",
+    "modulus": 6,
+    "params": 81,
+    "publicKey": "ut"
   },
-  "serialNumber": 18,
+  "serialNumber": 3,
   "serialNumberObject": {
-    "serialNumber": 82
+    "serialNumber": 9
   },
-  "sigAlgName": "lorem",
-  "sigAlgOID": "lorem",
+  "sigAlgName": "mi",
+  "sigAlgOID": "dolor",
   "subjectAlternativeNames": [
     {
-      "name": "Cruz",
-      "type": 59
+      "name": "Cordell",
+      "type": 15
     }
   ],
   "subjectDN": {
-    "commonName": "Lorem",
-    "name": "Allen"
+    "commonName": "nibh",
+    "name": "Alexa"
   },
   "subjectX500Principal": {
-    "name": "Ahmad"
+    "name": "Alona"
   },
-  "type": "viverra",
-  "version": 68
+  "type": "molestie",
+  "version": 88
 }

@@ -1,6 +1,6 @@
 {
-  "applicationName": "augustdemo",
-  "runtime": "4.9.7:23-java17",
+  "applicationName": "datastoretoentsystem",
+  "runtime": "4.9.8:6-java17",
   "replicas": 1,
   "replicaSize": "0.1",
   "deploymentModel": "rolling"

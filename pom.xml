@@ -97,6 +97,18 @@
             <version>1.5.3</version>
             <classifier>mule-plugin</classifier>
         </dependency>
+        <dependency>
+            <groupId>com.mulesoft.connectors</groupId>
+            <artifactId>mule-servicenow-connector</artifactId>
+            <version>6.17.1</version>
+            <classifier>mule-plugin</classifier>
+        </dependency>
+        <dependency>
+            <groupId>b02e4c92-2d52-4ea7-b65c-1efee64a1675</groupId>
+            <artifactId>mule-plugin-idp-action-d0550265-6168-4263-b508-a5387644bbf6</artifactId>
+            <version>1.0.0</version>
+            <classifier>mule-plugin</classifier>
+        </dependency>
     </dependencies>
     <repositories>
         <repository>

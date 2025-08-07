@@ -1,0 +1,12 @@
+id,categories,colors,createdDate,modifiedDate,safetyStockLevel,stock,daysToManufacture,name,description,images,listPrice,manufactured,productNumber,size,sizeUnitMeasureCode,standardCost,weightUnitMeasureCode,weight
+1991,[],[],"2025-01-01","2025-01-01",40,150,2,"Windows XP software","Software for computers",[],500,false,"1110Z",112,"",60,"",""
+2001,["hardware"],["black"],"2025-02-14","2025-02-15",35,120,3,"USB Flash Drive","Portable storage device",[],15.99,false,"2001A",16,"cm",7.5,"g","plastic"
+2002,["software","utility"],["blue","green"],"2025-03-01","2025-03-02",25,80,5,"Antivirus Pro","Protects your computer from malware",[],39.99,false,"2002B",0,"",20,"",""
+2003,["electronics"],[],"2025-01-30","2025-02-01",50,200,1,"Wireless Mouse","Ergonomic wireless mouse",[],24.5,false,"2003C",10,"in",12.2,"oz","rubber"
+2004,["games"],["red"],"2025-04-01","2025-04-02",10,60,4,"Chess Master","Classic chess strategy game",[],29.99,false,"2004D",8,"cm",9.8,"g","wood"
+2005,["accessories"],["silver"],"2025-05-05","2025-05-06",12,40,2,"Keyboard Cover","Protective cover for keyboards",[],9.99,false,"2005E",0,"",5.1,"","silicone"
+2006,["software"],[],"2025-06-10","2025-06-11",20,90,2,"Photo Editor","Edit and enhance images",[],49.0,false,"2006F",0,"",22.5,"",""
+2007,[],["white","gray"],"2025-07-20","2025-07-21",15,75,3,"Charging Cable","USB-C to USB cable",[],5.99,false,"2007G",1,"m",0.8,"kg","copper"
+2008,["hardware"],[],"2025-08-15","2025-08-16",30,130,6,"HDMI Adapter","Connect devices via HDMI",[],12.5,false,"2008H",3,"in",0.3,"lb","aluminum"
+2009,["software","games"],["purple"],"2025-09-09","2025-09-10",8,55,1,"Puzzle Solver","Fun logic game",[],19.0,false,"2009I",0,"",6.4,"",""
+2010,["electronics"],["blue","white"],"2025-10-01","2025-10-02",60,180,2,"Bluetooth Speaker","Portable sound system",[],79.99,false,"2010J",5,"cm",1.2,"kg","plastic"

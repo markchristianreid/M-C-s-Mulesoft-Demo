@@ -1,0 +1,29 @@
+[
+  {
+    "id": 72,
+    "categories": [
+      "tempor",
+      "eget"
+    ],
+    "colors": [
+      "at",
+      "dolor"
+    ],
+    "createdDate": "eros",
+    "modifiedDate": "molestie",
+    "safetyStockLevel": 98,
+    "stock": 71,
+    "daysToManufacture": 34,
+    "name": "Agustin",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Fusce at arcu lectus. Nam lorem nibh pretium a nisi a",
+    "images": [
+      "tempor",
+      "faucibus"
+    ],
+    "listPrice": 0.86,
+    "manufactured": true,
+    "productNumber": "erat",
+    "size": "nunc",
+    "standardCost": 8
+  }
+]
