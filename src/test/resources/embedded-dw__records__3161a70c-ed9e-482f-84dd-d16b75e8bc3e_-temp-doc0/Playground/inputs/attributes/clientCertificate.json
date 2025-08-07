@@ -1,0 +1,72 @@
+{
+  "basicConstraints": 51,
+  "criticalExtensionOIDs": [
+    "erat",
+    "faucibus",
+    "convallis"
+  ],
+  "extendedKeyUsage": [
+    "adipiscing",
+    "felis"
+  ],
+  "extensions": [
+    {
+      "criticality": false,
+      "oid": "elit"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Albertina",
+      "type": 14
+    }
+  ],
+  "issuerDN": {
+    "commonName": "ipsum",
+    "name": "Allison"
+  },
+  "issuerUniqueID": [
+    false,
+    true,
+    false
+  ],
+  "issuerX500Principal": {
+    "name": "Claudio"
+  },
+  "keyUsage": [
+    true,
+    false
+  ],
+  "name": "Albertine",
+  "nonCriticalExtensionOIDs": [
+    "nunc",
+    "dolor"
+  ],
+  "publicKey": {
+    "algorithm": "amet",
+    "modulus": 5,
+    "params": 38,
+    "publicKey": "tincidunt"
+  },
+  "serialNumber": 37,
+  "serialNumberObject": {
+    "serialNumber": 94
+  },
+  "sigAlgName": "eros",
+  "sigAlgOID": "ac",
+  "subjectAlternativeNames": [
+    {
+      "name": "Dannie",
+      "type": 53
+    }
+  ],
+  "subjectDN": {
+    "commonName": "dictum",
+    "name": "Cyrus"
+  },
+  "subjectX500Principal": {
+    "name": "Cornelius"
+  },
+  "type": "erat",
+  "version": 20
+}

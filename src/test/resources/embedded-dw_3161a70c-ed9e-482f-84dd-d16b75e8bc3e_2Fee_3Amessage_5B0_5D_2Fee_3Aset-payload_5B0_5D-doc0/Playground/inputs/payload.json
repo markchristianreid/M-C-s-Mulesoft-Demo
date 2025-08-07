@@ -1,1 +1,21 @@
-{}
+[
+  {
+    "id": 7,
+    "name": "Christoper",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Fusce at",
+    "product_number": "lorem",
+    "manufactured": true,
+    "colors": "erat",
+    "categories": "justo",
+    "stock": 57,
+    "safety_stock_level": 96,
+    "standard_cost": 51,
+    "list_price": 0.56,
+    "size": "arcu",
+    "size_unit_measure_code": "dolor",
+    "weight": 99,
+    "weight_unit_measure_code": "lorem",
+    "days_to_manufacture": 13,
+    "images": "ipsum"
+  }
+]

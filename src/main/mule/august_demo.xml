@@ -54,21 +54,6 @@ payload map (product, index) -> {
 			</ee:message>
 		</ee:transform>
 		<logger level="INFO" doc:name="Logger" doc:id="46a451d2-2c60-4572-8cb4-e10614e0fb66" />
-		<salesforce:create doc:name="Create" doc:id="b7f9cdec-2778-445e-8637-57eb3aac0b2c" config-ref="Salesforce_Config" type="MCProduct__c">
-			<salesforce:records ><![CDATA[#[%dw 2.0
-output application/java
----
-payload map (product) -> {
-  Name: product.name,
-  categories__c: (product.categories default []) joinBy ",",
-  colors__c: (product.colors default []) joinBy ",",
-  description__c: product.description,listPrice: product.list_price,
-  productNumber__c: product.product_number,
-  size__c: product.size,
-  cost__c: product.standard_cost
-}]]]></salesforce:records>
-		</salesforce:create>
-		<logger level="INFO" doc:name="Logger" doc:id="8edfaa11-652f-47be-92ab-2abd892831ba" />
 
 	</flow>
 </mule>

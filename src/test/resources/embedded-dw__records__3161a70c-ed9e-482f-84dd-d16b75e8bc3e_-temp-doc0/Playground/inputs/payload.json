@@ -1,0 +1,21 @@
+[
+  {
+    "id": 7,
+    "name": "Alexia",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Fusce at arcu lectus. Nam lorem nibh pretium a nisi a viverra consectetur dui. In ac tincidunt libero. Pellentesque pulvinar justo vitae molestie tempor nunc risus faucibus ipsum semper tempor",
+    "product_number": "dolor",
+    "manufactured": true,
+    "colors": "convallis",
+    "categories": "nunc",
+    "stock": 59,
+    "safety_stock_level": 31,
+    "standard_cost": 10,
+    "list_price": 0.51,
+    "size": "mi",
+    "size_unit_measure_code": "nibh",
+    "weight": 50,
+    "weight_unit_measure_code": "tempor",
+    "days_to_manufacture": 99,
+    "images": "justo"
+  }
+]
